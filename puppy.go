@@ -1,8 +1,6 @@
 package puppy
 
-import (
-	"github.com/corrigat/dog"
-)
+import "github.com/corrigat/dog"
 
 func Bark() string {
 	return "Woof!"
